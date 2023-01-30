@@ -37,7 +37,7 @@ if (13 > 79 && 13 > 45) {
   else {
     console.log('45 is the largest number');
   }
-
+ 
   
   if (9 === 8 || 8 === 9 || 9 === 9) {
     console.log('This triangle is Isosceles!')

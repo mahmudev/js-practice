@@ -19,7 +19,7 @@ console.log(average.toFixed(2))
 
 var textOne = "I am going to be";
 var textwo = "an awesome web developer";
-var oneLine = textOne + " " + textwo;
+var oneLine = textOne + " " + texTwo;
 console.log(oneLine)
 
 // problem#4
