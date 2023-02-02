@@ -1,12 +1,12 @@
 // Write a function that will take hour as the input parameter and will
 // convert it into minutes and will return the result in minutes.
 
-// function hoursToMinutes(hour) {
-//     var minutes = 60;
-//     var result = hour * minutes;
-//     console.log(result)
-// }
-// hoursToMinutes(3)
+function hoursToMinutes(hour) {
+    var minutes = 60;
+    var result = hour * minutes;
+    console.log(result)
+}
+hoursToMinutes(3)
 
 // Write a function findLeapYear() that will take the array
 // [2023,2024,2025,2028,2030] as the input parameter and will check if
@@ -30,3 +30,4 @@ findLeapYear(years);
 
 // Write a function findOddSum() that will take the array [5, 7, 8, 10, 45, 30]
 // as the input parameter and will return the sum of the odd numbers.
+ 
